@@ -11,7 +11,7 @@
 
 ## Installation & Usage
 
-git clone https://github.com/noname666-bot/PortFind.git
+git clone https://github.com/noname666-bot/PortFind.git 
 cd PortFind
 cp PortFind ~/../usr/bin/
 chmod +x ~/../usr/bin/PortFind
