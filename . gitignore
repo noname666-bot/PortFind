@@ -1,0 +1,11 @@
+# Temporary system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local configuration files or testing logs
+.env
+*.log
+tmp/
